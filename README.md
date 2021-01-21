@@ -1,6 +1,6 @@
 # News
 
-<div style="margin:auto;width:"320";height:"200";">
+<div style="margin:auto;width:"220";height:"100";">
 <img src="https://github.com/nouraan-ahmed/News/blob/master/public/img/news.png" >
 </div>
 
